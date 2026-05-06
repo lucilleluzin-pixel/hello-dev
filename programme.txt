@@ -4,3 +4,5 @@
 * modifier des fichiers
 * voir l'historique
 * ne pas voirs peur des merges
+* ajout d'utilisateurs ?
+* supprimer des commits ?
